@@ -1,17 +1,37 @@
-Privacy Policy & Terms for Daily Fresh
-1. Introduction
-Welcome to Daily Fresh. We provide fresh milk, dairy products, and fresh vegetables home delivery services in Nandurbar, Maharashtra. By using our app, you agree to the terms outlined in this policy.
-2. Information Collection & Usage
-We collect basic user details such as your Name, Mobile Number, and Delivery Address solely for the purpose of fulfilling and delivering your orders accurately. We do not sell, rent, or share your personal information with any third-party organizations.
-3. Online Payments
-All online transactions are processed securely through the Razorpay payment gateway. We do not store, record, or have access to any sensitive card details or UPI PINs on our servers.
-4. Cancellation & Refund Policy
-Cancellation: Customers can cancel their order before dispatch through the app or by contacting support.
-Refunds: If an order is canceled before dispatch or if a damaged product is delivered, eligible refunds will be initiated immediately and credited back to the original payment source (UPI/Account) within 5-7 business days.
-5. Contact & Support
-For any complaints, feedback, or delivery issues, please reach out to us at:
-Business Name: Daily Fresh
-Email: kalpesh7517@gmail.com
-Phone: +91 7517899366
-Address: Ekta Nagar, Nalwa Road, Nandurbar, Maharashtra - 425412
-# daily-fresh-policy
+# Daily Fresh Policies
+
+Welcome to **Daily Fresh**. We provide fresh milk, dairy products, and organic fresh vegetables home delivery services in Nandurbar, Maharashtra.
+
+---
+
+## Terms and Conditions
+* By using the Daily Fresh application, you agree to our service terms.
+* Users must provide accurate delivery details for fulfilling orders.
+* Prices of fresh produce and dairy products are subject to daily market variations.
+
+---
+
+## Privacy Policy
+* We collect basic user details such as Name, Mobile Number, and Delivery Address solely for order processing.
+* We do not store, record, or have access to any sensitive card details or UPI PINs on our servers.
+* Your personal information is kept strictly confidential and is never shared with third parties.
+
+---
+
+## Refund Policy
+* **Quality Concerns:** If any delivered product is damaged, spoiled, or lacking quality, please notify us within 2 hours of delivery.
+* **Refund Credit:** Eligible refunds will be initiated immediately and credited back to the original payment source (UPI/Account) within 5-7 business days.
+
+---
+
+## Cancellation Policy
+* **Cancellations:** Customers can cancel their order before dispatch through the app or by contacting support.
+* **Perishable Items:** Returns at delivery are accepted if packaging is damaged or product quality is compromised.
+
+---
+
+## Contact Us
+* **Business Name:** Daily Fresh
+* **Location:** Ekta Nagar, Nalwa Road, Nandurbar, Maharashtra - 425412
+* **Support Email:** Support available directly via Daily Fresh App.
+* 
